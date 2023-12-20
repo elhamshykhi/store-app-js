@@ -1,0 +1,523 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "double bed",
+      "category": "beds",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 900,
+      "image": "../src/assets/images/bed/bed1.png"
+    },
+    {
+      "id": 2,
+      "title": "single bed",
+      "category": "beds",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 650,
+      "image": "../src/assets/images/bed/bed2.png"
+    },
+    {
+      "id": 3,
+      "title": "gray king bed",
+      "category": "beds",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 750,
+      "image": "../src/assets/images/bed/bed3.png"
+    },
+    {
+      "id": 4,
+      "title": "cream double bed",
+      "category": "beds",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 800,
+      "image": "../src/assets/images/bed/bed4.png"
+    },
+    {
+      "id": 5,
+      "title": "modern gray bed",
+      "category": "beds",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 730,
+      "image": "../src/assets/images/bed/bed5.png"
+    },
+    {
+      "id": 6,
+      "title": "yellow chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 250,
+      "image": "../src/assets/images/chair/chair1.png"
+    },
+    {
+      "id": 7,
+      "title": "red kitchen chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 200,
+      "image": "../src/assets/images/chair/chair2.png"
+    },
+    {
+      "id": 8,
+      "title": "white armchair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 350,
+      "image": "../src/assets/images/chair/chair3.png"
+    },
+    {
+      "id": 9,
+      "title": "dark gray dining chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 240,
+      "image": "../src/assets/images/chair/chair4.png"
+    },
+    {
+      "id": 10,
+      "title": "white modern chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 260,
+      "image": "../src/assets/images/chair/chair5.png"
+    },
+    {
+      "id": 11,
+      "title": "light gray chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 320,
+      "image": "../src/assets/images/chair/chair6.png"
+    },
+    {
+      "id": 12,
+      "title": "cream dining table",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 310,
+      "image": "../src/assets/images/chair/chair7.png"
+    },
+    {
+      "id": 13,
+      "title": "dark blue green armchair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 330,
+      "image": "../src/assets/images/chair/chair8.png"
+    },
+    {
+      "id": 14,
+      "title": "modern armchair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 180,
+      "image": "../src/assets/images/chair/chair9.png"
+    },
+    {
+      "id": 15,
+      "title": "printed dining chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 160,
+      "image": "../src/assets/images/chair/chair10.png"
+    },
+    {
+      "id": 16,
+      "title": "dark gray kitchen chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 170,
+      "image": "../src/assets/images/chair/chair11.png"
+    },
+    {
+      "id": 17,
+      "title": "light gray kitchen chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 180,
+      "image": "../src/assets/images/chair/chair12.png"
+    },
+    {
+      "id": 18,
+      "title": "black kitchen chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 190,
+      "image": "../src/assets/images/chair/chair13.png"
+    },
+    {
+      "id": 19,
+      "title": "white chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 185,
+      "image": "../src/assets/images/chair/chair14.png"
+    },
+    {
+      "id": 20,
+      "title": "light gray kitchen chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 175,
+      "image": "../src/assets/images/chair/chair15.png"
+    },
+    {
+      "id": 21,
+      "title": "brown leather chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 250,
+      "image": "../src/assets/images/chair/chair16.png"
+    },
+    {
+      "id": 22,
+      "title": "gray chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 230,
+      "image": "../src/assets/images/chair/chair17.png"
+    },
+    {
+      "id": 23,
+      "title": "colorful chair",
+      "category": "chairs",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 245,
+      "image": "../src/assets/images/chair/chair18.png"
+    },
+    {
+      "id": 24,
+      "title": "modern light blue light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 175,
+      "image": "../src/assets/images/light/light1.png"
+    },
+    {
+      "id": 25,
+      "title": "wicker light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 165,
+      "image": "../src/assets/images/light/light2.png"
+    },
+    {
+      "id": 26,
+      "title": "black metal light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 185,
+      "image": "../src/assets/images/light/light3.png"
+    },
+    {
+      "id": 27,
+      "title": "cream wicker light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 180,
+      "image": "../src/assets/images/light/light4.png"
+    },
+    {
+      "id": 28,
+      "title": "metal light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 190,
+      "image": "../src/assets/images/light/light5.png"
+    },
+    {
+      "id": 29,
+      "title": "wooden light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 200,
+      "image": "../src/assets/images/light/light6.png"
+    },
+    {
+      "id": 30,
+      "title": "modern white light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 210,
+      "image": "../src/assets/images/light/light7.png"
+    },
+    {
+      "id": 31,
+      "title": "wicker bubble light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 200,
+      "image": "../src/assets/images/light/light8.png"
+    },
+    {
+      "id": 32,
+      "title": "wooden bubble light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 230,
+      "image": "../src/assets/images/light/light9.png"
+    },
+    {
+      "id": 33,
+      "title": "modern blue light",
+      "category": "lights",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 240,
+      "image": "../src/assets/images/light/light10.png"
+    },
+    {
+      "id": 34,
+      "title": "gray two seat sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 450,
+      "image": "../src/assets/images/sofa/sofa1.png"
+    },
+    {
+      "id": 35,
+      "title": "gray L-sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 400,
+      "image": "../src/assets/images/sofa/sofa2.png"
+    },
+    {
+      "id": 36,
+      "title": "modern sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 420,
+      "image": "../src/assets/images/sofa/sofa3.png"
+    },
+    {
+      "id": 37,
+      "title": "two seat sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 400,
+      "image": "../src/assets/images/sofa/sofa4.png"
+    },
+    {
+      "id": 38,
+      "title": "cream two seat sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 370,
+      "image": "../src/assets/images/sofa/sofa5.png"
+    },
+    {
+      "id": 39,
+      "title": "modern gray sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 380,
+      "image": "../src/assets/images/sofa/sofa6.png"
+    },
+    {
+      "id": 40,
+      "title": "light gray three seat sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 480,
+      "image": "../src/assets/images/sofa/sofa7.png"
+    },
+    {
+      "id": 41,
+      "title": "gray two seat sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 520,
+      "image": "../src/assets/images/sofa/sofa8.png"
+    },
+    {
+      "id": 42,
+      "title": "brown two seat sofa",
+      "category": "sofas",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 600,
+      "image": "../src/assets/images/sofa/sofa9.png"
+    },
+    {
+      "id": 43,
+      "title": "white dressing table",
+      "category": "tables",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 420,
+      "image": "../src/assets/images/table/table1.png"
+    },
+    {
+      "id": 44,
+      "title": "white tv table",
+      "category": "tables",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 380,
+      "image": "../src/assets/images/table/table2.png"
+    },
+    {
+      "id": 45,
+      "title": "wooden dresser",
+      "category": "tables",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 355,
+      "image": "../src/assets/images/table/table3.png"
+    },
+    {
+      "id": 46,
+      "title": "modern table",
+      "category": "tables",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 375,
+      "image": "../src/assets/images/table/table4.png"
+    },
+    {
+      "id": 47,
+      "title": "wooden stool",
+      "category": "tables",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 345,
+      "image": "../src/assets/images/table/table5.png"
+    },
+    {
+      "id": 48,
+      "title": "stone table",
+      "category": "tables",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 395,
+      "image": "../src/assets/images/table/table6.png"
+    },
+    {
+      "id": 49,
+      "title": "wooden dressing table",
+      "category": "tables",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 410,
+      "image": "../src/assets/images/table/table7.png"
+    },
+    {
+      "id": 50,
+      "title": "modern stool",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 110,
+      "image": "../src/assets/images/accessories/other1.png"
+    },
+    {
+      "id": 51,
+      "title": "cream cushion",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 90,
+      "image": "../src/assets/images/accessories/other2.png"
+    },
+    {
+      "id": 52,
+      "title": "colorful cloth",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 95,
+      "image": "../src/assets/images/accessories/other3.png"
+    },
+    {
+      "id": 53,
+      "title": "stone vase",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 100,
+      "image": "../src/assets/images/accessories/other4.png"
+    },
+    {
+      "id": 54,
+      "title": "decorative picture",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 80,
+      "image": "../src/assets/images/accessories/other5.png"
+    },
+    {
+      "id": 55,
+      "title": "white bowl",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 85,
+      "image": "../src/assets/images/accessories/other6.png"
+    },
+    {
+      "id": 56,
+      "title": "set of blue and white dishes",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 120,
+      "image": "../src/assets/images/accessories/other7.png"
+    },
+    {
+      "id": 57,
+      "title": "white clay set of dish",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 135,
+      "image": "../src/assets/images/accessories/other8.png"
+    },
+    {
+      "id": 58,
+      "title": "long decorative dish",
+      "category": "accessories",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum error dolore quidem id illo nemo earum ut vel? Nisi, quasi!",
+      "price": 150,
+      "image": "../src/assets/images/accessories/other9.png"
+    }
+  ],
+  "whyUs": [
+    {
+      "id": 1,
+      "title": "durability",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt labore nobis aliquam officia, quia distinctio laborum itaque ratione dolorem, nulla beatae, rem tempora molestias sed."
+    },
+    {
+      "id": 2,
+      "title": "customable",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt labore nobis aliquam officia, quia distinctio laborum itaque ratione dolorem, nulla beatae, rem tempora molestias sed."
+    },
+    {
+      "id": 3,
+      "title": "delivery & assembly",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt labore nobis aliquam officia, quia distinctio laborum itaque ratione dolorem, nulla beatae, rem tempora molestias sed."
+    },
+    {
+      "id": 4,
+      "title": "customer service",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt labore nobis aliquam officia, quia distinctio laborum itaque ratione dolorem, nulla beatae, rem tempora molestias sed."
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "heading": "can I order custom designed furniture?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus at tempore, iste exercitationem porro non illum officiis veniam neque eius."
+    },
+    {
+      "id": 2,
+      "heading": "is there any way to order custom design completely in online?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus at tempore, iste exercitationem porro non illum officiis veniam neque eius."
+    },
+    {
+      "id": 3,
+      "heading": "how can I claim warranty if I brought from online?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus at tempore, iste exercitationem porro non illum officiis veniam neque eius."
+    },
+    {
+      "id": 4,
+      "heading": "do you accept credit cards?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus at tempore, iste exercitationem porro non illum officiis veniam neque eius."
+    },
+    {
+      "id": 5,
+      "heading": "will you ship immediately after I order a furniture?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus at tempore, iste exercitationem porro non illum officiis veniam neque eius."
+    },
+    {
+      "id": 6,
+      "heading": "is there any opportunity to get back product at a time?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus at tempore, iste exercitationem porro non illum officiis veniam neque eius."
+    }
+  ],
+  "cart": []
+}

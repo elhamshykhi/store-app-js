@@ -1,0 +1,97 @@
+:root {
+  --teal-950: rgb(4, 47, 46);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* =============== NAVBAR =============== */
+#navbar {
+  transition: all 0.3s ease-in-out;
+}
+#navbar.setNavOnTop {
+  background-color: var(--teal-950);
+}
+#navbar.setNavOnTop #discount {
+  display: none;
+}
+#discount {
+  transition: all 0.3s ease-in-out;
+}
+
+/* =============== CART =============== */
+#cart_section {
+  visibility: hidden;
+  opacity: 0;
+  z-index: -1000;
+  transition: all 0.3s ease-in-out;
+}
+
+#cart_section.show_cart {
+  visibility: visible;
+  opacity: 1;
+  z-index: 1000;
+}
+
+#cart_empty_msg.hidden {
+  display: hidden;
+}
+
+#cart_full {
+  display: none;
+}
+
+#cart_full.show_cartFull {
+  display: block;
+}
+
+/* =============== scroll down button =============== */
+.unu {
+  margin-top: 1px;
+}
+
+.unu,
+.doi,
+.trei {
+  animation: mouse-scroll 1s infinite;
+}
+
+.unu {
+  animation-direction: alternate;
+  animation-delay: alternate;
+}
+
+.doi {
+  animation-delay: 0.2s;
+  animation-direction: alternate;
+
+  margin-top: -6px;
+}
+
+.trei {
+  animation-delay: 0.3s;
+  animation-direction: alternate;
+
+  margin-top: -6px;
+}
+
+@keyframes mouse-scroll {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* =============== accordion =============== */
+#accordion_img {
+  background-image: url("../assets/images/chair.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

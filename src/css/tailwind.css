@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .section-mainTitle {
+    @apply font-lato tracking-widest text-stone-50 text-4xl min-[400px]:text-5xl sm:text-6xl md:text-7xl xl:text-8xl leading-10 uppercase font-black;
+  }
+
+  .section-subTitle {
+    @apply font-playFair text-teal-900 absolute top-0 left-1/2 -translate-x-1/2 text-xl sm:text-3xl md:text-4xl xl:text-5xl leading-[168px] sm:leading-[188px] md:leading-[200px] xl:leading-[224px] uppercase tracking-widest;
+  }
+
+  .scroll-arrow {
+    @apply w-4 h-4 block rotate-45 border-r-2 border-white border-b-2 mb-[3px] ml-1;
+  }
+}
